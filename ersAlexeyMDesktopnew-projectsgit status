@@ -1,0 +1,71 @@
+[33mcommit 800d61fa5016b611b1874cbe9ff3807de2d2d362[m[33m ([m[1;36mHEAD -> [m[1;32mbasket-delivery-options[m[33m)[m
+Author: Alexey Markov <alexeyaleksmarkov@gmail.com>
+Date:   Fri Apr 8 08:56:17 2022 +0500
+
+    basket options block added
+
+[33mcommit d0cc1536d8484322bc9f1e68dc80b3ffebdbf1f7[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 3f1786c 98eee9a
+Author: Alexey Markov <alexeyaleksmarkov@gmail.com>
+Date:   Thu Apr 7 09:07:38 2022 +0500
+
+    commit change
+
+[33mcommit 98eee9aacd40580e03dd8d3f66ea41416ddee5e4[m
+Author: AlexeyMarkov5 <103089110+AlexeyMarkov5@users.noreply.github.com>
+Date:   Thu Apr 7 09:00:13 2022 +0500
+
+    Update index2.html
+    
+    add number 3
+
+[33mcommit 3f1786cf217d66af61ab2efd62b2ba49efe9810f[m
+Author: Alexey Markov <alexeyaleksmarkov@gmail.com>
+Date:   Thu Apr 7 08:58:53 2022 +0500
+
+    add number 5
+
+[33mcommit 6d29c96ed3073c2476f9443322db96d30ea634c7[m
+Merge: 0e5593c d2eafcb
+Author: Alexey Markov <alexeyaleksmarkov@gmail.com>
+Date:   Thu Apr 7 08:53:31 2022 +0500
+
+    Merge branch 'main' of https://github.com/AlexeyMarkov5/new-projects
+
+[33mcommit d2eafcb97a26706a37b32db081d5a5f6c63dd54e[m
+Author: AlexeyMarkov5 <103089110+AlexeyMarkov5@users.noreply.github.com>
+Date:   Thu Apr 7 08:48:42 2022 +0500
+
+    Update index.html
+    
+    add text
+
+[33mcommit 0e5593caf774f4581cbe86f8f8d4ccbeda64f1f9[m
+Author: Alexey Markov <alexeyaleksmarkov@gmail.com>
+Date:   Thu Apr 7 08:46:56 2022 +0500
+
+    delete text
+
+[33mcommit d1eeb75f44f57aa5255790a89056e35a7d55d5dc[m
+Author: AlexeyMarkov5 <103089110+AlexeyMarkov5@users.noreply.github.com>
+Date:   Thu Apr 7 08:39:58 2022 +0500
+
+    Create README.md
+
+[33mcommit 33b02ddee78620671b994d4289be14bdec6f5431[m
+Author: Alexey Markov <alexeyaleksmarkov@gmail.com>
+Date:   Thu Apr 7 08:34:52 2022 +0500
+
+    change numbers to text
+
+[33mcommit 38582633569cb16a9856b62283bd00de490b6bcf[m
+Author: Alexey Markov <alexeyaleksmarkov@gmail.com>
+Date:   Thu Apr 7 08:20:09 2022 +0500
+
+    add text and numbers
+
+[33mcommit a2edd163ca16ac867dccaf70973d091972122411[m
+Author: Alexey Markov <alexeyaleksmarkov@gmail.com>
+Date:   Wed Apr 6 09:08:04 2022 +0500
+
+    'initial'
